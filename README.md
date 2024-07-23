@@ -7,6 +7,5 @@ I am a third-year Electrical and Computer Engineering student at the University 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/halday.zuhayr@gmail.com) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZuhayrHalday&theme=dark&hide_border=false)<br/>
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuhayrHalday&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
